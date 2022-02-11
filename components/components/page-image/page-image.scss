@@ -1,7 +1,7 @@
 .c-page-image {	
 	position: relative;
 	transform: translate(0);
-	padding-top: 30%;
+	padding-top: 70%;
 	margin-bottom: 48px;
 	min-height: 280px;
 	border-radius: 16px;
@@ -19,7 +19,7 @@
 	}
 
 	@media only screen and (max-width: $desktop) {
-		padding-top: 40%;
+		padding-top: 80%;
 		margin-bottom: 40px;
 	}
 
