@@ -4,6 +4,6 @@ menu__settings:
     - title: Projektit
       url: /
     - title: About
-      url: /about
+      url: /about/
     - title: projects
-      url: /projects
+      url: /projects/
