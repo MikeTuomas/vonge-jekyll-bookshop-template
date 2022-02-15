@@ -19,7 +19,7 @@ Rehellisyyden nimissä tätä projektia olen pyöritellyt päässä ainakin yli 
 
 ## Cloudcannon CMS
 
-Cloudcannon valikoitui alustaksi melko sattumalta. Tykkään Jamstacksta tosi paljon ja olen sillä laittanut sivustoja pystyyn jo aikaisemmin harrastusmielessä. Suurimpana syynä on, että Jamstackilla on naurettavan helppo saada sivusto ylös ja static-site-generaattorien kanssa sivustoista tulee kivan nopeita, melko helppoja koodailla ja lopputuloksenkin saa näyttämään kivalta. Mutta perus git+netlify combolla sisällön hallinta tuntuu aika nihkeältä. Siksi olen kokeillut paria eri CMS palvelua, joista aikaisemmat tuntuivat tavalla tai toisella myös aika nihkeiltä. Cloudcannon on nyt viimeisin testissä oleva.
+Cloudcannon valikoitui alustaksi melko sattumalta. Tykkään Jamstackista tosi paljon ja olen sillä laittanut sivustoja pystyyn jo aikaisemmin harrastusmielessä. Suurimpana syynä on, että Jamstackilla on naurettavan helppo saada sivusto ylös ja static-site-generaattorien kanssa sivustoista tulee kivan nopeita, melko helppoja koodailla ja lopputuloksenkin saa näyttämään kivalta. Mutta perus git+netlify combolla sisällönhallinta tuntuu aika nihkeältä. Siksi olen kokeillut paria eri CMS palvelua, joista aikaisemmat tuntuivat tavalla tai toisella myös aika nihkeiltä. Cloudcannon on nyt viimeisin testissä oleva.
 
 Valintaa auttoi myös paljon se, että Cloudcannonilla löytyi suoraan hyvä template sivustolle ja pääsin helposti kärryille heidän bookshop frameworkistä. Bookshopilla luodaan komponentteja, joita voi kerran luotuaan lisäillä graafisesta käyttöliittymästä eri sivuille.
 
