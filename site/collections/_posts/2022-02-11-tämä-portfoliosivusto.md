@@ -47,6 +47,12 @@ On hyvin selvää kuka tekstit on kirjoittanut minun portfoliosivustolla. Muutos
 
 Minun mielestä portfoliossa ei pitäisi olla niin paljon projekteja, että niille tulisi luoda erillinen sivu, joten "view all" nappula on turha. Muutos onnisuti poistamalla koodia bookshop komponentista.
 
-&nbsp;
+### Ikonipaketin päivitys
+
+Halusin lisätä linkin Gitlab profiiliini, koska siellä on useampi kuin kaksi vihreää täplää, mutta valitsemani template ei ladannutkaan gitlabille ikonia ollenkaan\! Aikani ihmeteltyäni huomasin ikonipaketin, jonka avulla kaikki ikonit sivustolle ladataaan, olevan 2 iso versiota jäljessä (4.5.0-&gt;6.0.1).
+
+Paketin päivittäminen muutti kuinka sitä tuli käyttää, joten minun piti päivittää kaikki ikoneihin liittyvä koodi.
+
+Päivityksen lopputuloksena Gitlabille löytyi ikoni ja kaikki ikonit ovat hieman ylhäällä keskilinjasta. Jääköön toistaiseksi ominaisuudeksi.
 
 &nbsp;
