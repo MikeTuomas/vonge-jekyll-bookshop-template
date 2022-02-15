@@ -55,4 +55,10 @@ Paketin päivittäminen muutti kuinka sitä tuli käyttää, joten minun piti p�
 
 Päivityksen lopputuloksena Gitlabille löytyi ikoni ja kaikki ikonit ovat hieman ylhäällä keskilinjasta. Jääköön toistaiseksi ominaisuudeksi.
 
+### Oman logon luominen
+
+Nimikkosivustolla oman nimen käyttäminen logona on minusta selkeä valinta. Aloitin prosessin tutkimalla eri fontteja[google fonts](https://fonts.google.com) sivulla. Hauskoja fontteja löydettyäni vertailin niitä inkscapessa.
+
+![](/uploads/mikael-logo.png){: width="502" height="734"}
+
 &nbsp;
