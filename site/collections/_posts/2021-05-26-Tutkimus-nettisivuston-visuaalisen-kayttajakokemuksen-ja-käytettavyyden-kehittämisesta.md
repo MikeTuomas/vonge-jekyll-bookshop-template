@@ -10,7 +10,7 @@ tags:
   - Laadullinen tutkimus
 image: /uploads/20211128-161634-2.jpg
 ---
-*Kuvassa käyttäjän iankaikkinen ilme*
+*Kuva ei liity tapaukseen.*
 
 Nettisivustojen visuaalinen käyttäjäkokemus ja käytettävyys ovat ensiarvoisen tärkeitä. Käyttäjä luo arvion sivuston käytettävyydestä hyvin nopeasti heti sen nähdessään, mikä luo ennako-odotukset sen toiminnalliselle käytettävyydelle.
 
