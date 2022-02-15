@@ -12,7 +12,7 @@ image: /uploads/20211128-161634-2.jpg
 ---
 Nettisivustojen visuaalinen käyttäjäkokemus ja käytettävyys ovat ensiarvoisen tärkeitä. Käyttäjä luo arvion sivuston käytettävyydestä hyvin nopeasti heti sen nähdessään, mikä luo ennako-odotukset sen toiminnalliselle käytettävyydelle.
 
-Jyväskylän yliopiston syventävällä Vuorovaikutussuunnittelu -kurssilla (KOGS5505) toteutin osana ryhmää käyttäjäkokemus- ja käytettävyystutkimuksen. Tutkimuskohteena oli nimeltä toimekiantaja yhdistyksen nettisivuston kehitysversio.
+Jyväskylän yliopiston syventävällä Vuorovaikutussuunnittelu -kurssilla (KOGS5505) toteutin osana ryhmää käyttäjäkokemus- ja käytettävyystutkimuksen. Tutkimuskohteena oli toimeksiantaja yhdistyksen nettisivuston kehitysversio.
 
 Esittelen tässä artikkelissa tiiviisti tutkimuksestamme oleellisimmat osat kuten netissä kuuluu kirjoittaa. Sillä [kukaan ei lue tekstejä internetissä, vaan me etsimme niistä meitä kiinnostavia asioita](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/). Kurssin palautuksena ollut raportti on 43 sivua pitkä (49 liitteineen).
 
@@ -41,8 +41,6 @@ Tutkimuskysymyksemme olivat:
 
 1. Millainen nettisivuston havaittu **visuaalinen käytettävyys** ja **käyttäjäkokemus**?
 2. Miten nettisivun havaittua visuaalista käytettävyyttä ja käyttäjäkokemusta voisi mahdollisesti **parantaa**?
-
-&nbsp;
 
 ### Havaittu visuaalinen käytettävyys
 
@@ -103,6 +101,44 @@ Jäsenedut -sivu (1) ja Etusivu (2) olivat selvästi viimeistellymmät ja valmii
 Käyttävyyteen liittyvien adjektiivien osalta sivut olivat lähempänä toisiaan. Sivut olivat etusivua lukuunottamatta hyvin karuja, mutta sisällöltään tiiviitä, mikä voi osittain selittää neutraalien adjektiivien suurta osuutta. Sivujen käytettävyyden voisi tulkita olevan ei erityisen huono tai hyvä.
 
 ## Kehitysehdotukset
+
+Meidän tiedossamme ei ollut, mitä mielikuvia tai tunteita toimeksiantaja toivoi sivuston välittävän käyttäjällä. Sen johdosta kehitysehdotuksemme olivat yleisluontoisia, jotta niistä olisi hyötyä mahdollisimman todennäköisesti.
+
+### Yhtenäinen ja johdonmukainen visuaalinen kieli
+
+Johdonmukainen visuaalisen kielen käyttö mahdollistaa käyttäjälle elementtien tunnistamisen ja tulkinnan, ja näin parantaa käyttäjäkokemusta.
+
+Sivuston kehitysversion visuaalinen kieli oli hyvin epäjohdonmukainen. Sivut olivat jaettu 1, 2 tai 4 sarakkeeseen. Joillain sivuilla teksti on tasattu keskelle, jossain vasemmalle. Sivujen marginaalit myös alkoivat erikohdista riippuen sivusta.
+
+### Ehdotuksemme visuaaliselle kielelle
+
+Ehdotuksemme koskivat vain työpöytäversiota.
+
+1. Kahden sarakkeen asettelu 2/3 ja 1/3 suhteilla kapeampi saraka oikealla. Nettisivustoilla todella yleinen lähellä kultaistaleikkausta oleva asettelu, minkä takia se tuo sivustolle tuttuuden tuntua.
+2. Yhtenevä sivun yläosa jokaiselle sivulle, minne sijoitetaan otsikko upotettuna isoon kuvaan. Jokaisella sivulla tulisi näkyvä ja selkeä otsikko, joka kertoo mistä kyseisellä sivulla on kysymys. Tutkimuksessamme yhdistimme juuri sivujen sisältämät kuvat parempaan käyttäjäkokemukseen ja kuvilla voi hyvin erottaa sivujen ulkonäköä toisistaan.
+3. Otsikkon tasoitus eri linjassa muista elementeistä. Poikkeamalla linjasta siihen kiinnittyy enemmän huomiota.
+4. Gestalt-lain noudattaminen, eli toisiinsa liittyvät elementit tulee sijoittaa lähemmäksi toisiaan. Esimerkiksi otsikoiden tulisi olla lähempänä siihen liittyvää kappaletta kuin sitä ennen olevaa kappaletta.
+5. Otsikot aloitettava eniten informaatiota sisältävillä sanoilla, ja niiden ei tulisi olla tarpeettoman pitkiä.
+
+## Tutkimukseen mahdollisesti vaikuttaneet asiat
+
+### Vastausten määrä
+
+Onnistuimme hankkimaan kyselylle vain 14 vastaajaa, mikä on melko vähän. Toisaalta meidän käyttöömme annetussa luonnospaperissa, jossa PVU mittaristo on validoitu, PVU:n väitetiin antavan tilastollisesti merkitsevä ero jopa kahdeksalla vastaajalla. Suurempi otanta ei siis välttämättä muuttaisi tulosta.
+
+### Vastaajien ammattimaisuus
+
+Rajaus osallistujajoukossa ei ainoastaan pienentänyt tavoiteltua *N* otantaa, vaan se todennäköisesti vaikuttaa myös saatujen vastausten sisältöön ja siten tuloksiin. Monet vastaajista ovat hyvin perillä nettisivujen muotoilusta, mikä oli selvästi havaittavissa avoimissa vastauksissa, sillä niissä tehtiin usein hyvin seikkaperäisiä havaintoja.
+
+### Webropol -ohjelma asettamat rajoitteet
+
+Toteutimme kyselytutkimuksen Webropol -ohjelmalla. Huomasimme, että eri Webropol –sivuja ei voi keskenään satunnaistaa, minkä vuoksi sivuista otetut kuvakaappaukset näkyivät kyselyyn osallistuneille aina samassa järjestyksessä. Kyselyn aikana tapahtunut motivaationlasku voi siis osaltaan selittää tuloksia.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
