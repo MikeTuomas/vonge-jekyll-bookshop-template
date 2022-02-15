@@ -135,13 +135,3 @@ Rajaus osallistujajoukossa ei ainoastaan pienentänyt tavoiteltua *N* otantaa, v
 ### Webropol -ohjelma asettamat rajoitteet
 
 Toteutimme kyselytutkimuksen Webropol -ohjelmalla. Huomasimme, että eri Webropol –sivuja ei voi keskenään satunnaistaa, minkä vuoksi sivuista otetut kuvakaappaukset näkyivät kyselyyn osallistuneille aina samassa järjestyksessä. Kyselyn aikana tapahtunut motivaationlasku voi siis osaltaan selittää tuloksia.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
