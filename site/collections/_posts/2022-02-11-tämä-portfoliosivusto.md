@@ -1,6 +1,6 @@
 ---
 date: 2022-02-11 22:22:52
-title: Tämä portfoliosivusto
+title: Portfoliosivuston luonti
 description: Portfoliosivuston luominen portfoliossa, no miksei?
 tags:
   - Web Design
