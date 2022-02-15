@@ -61,4 +61,4 @@ Nimikkosivustolla oman nimen käyttäminen logona on minusta selkeä valinta. Al
 
 ![](/uploads/mikael-logo.png){: width="502" height="734"}
 
-&nbsp;
+Valitsin "viivakoodifontin", koska siitä huokuu teknologista fiilistä. Toiseseksi parhaina pidin keskellä olevia "Aku Ankka" fontteja, mutta sellainen ei välttämättä sopisi imagooni.
