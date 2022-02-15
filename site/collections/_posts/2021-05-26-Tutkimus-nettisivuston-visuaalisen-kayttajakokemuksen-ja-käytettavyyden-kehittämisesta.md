@@ -70,11 +70,13 @@ PVU kyselyssä on kolme osa-aluetta (Visuaalinen selkeys, sommittelu sekä väri
 
 Kyselyn vastaajia pyydettiin kuvailemaan näytettyä sivua kolmella ensimmäisenä mieleentulevalla adjektiivilla. Kysyimme erityisesti adjektiiveja, koska oletimme niiden tuovan esiin erityisesti millaisia tunteita näytetty sivu heissä aiheutti.
 
-Kerättyt adjektiivit luokittelimme kirjallisuuden pohjaten negatiivisesti, neutraalisti tai positiivisesti käyttäjäkokemukseen ja käytettävyyteen vaikuttaviksi asteikolla -1,0,1. Yksi adjektiivi sai siis kaksi luokittelua, esimerkiksi adjektiivin "informatiivinen" luokittelimme olevan käyttäjäkokemukseen positiivisesti vaikuttava (1) ja käytetävyyden kannalta neutraali (0).
+Kerättyt adjektiivit luokittelimme kirjallisuuden pohjaten negatiivisesti, neutraalisti tai positiivisesti käyttäjäkokemukseen ja käytettävyyteen vaikuttaviksi asteikolla -1,0,1. Yksi adjektiivi sai siis kaksi luokittelua, esimerkiksi adjektiivin "informatiivinen" luokittelimme olevan käyttäjäkokemukseen positiivisesti vaikuttava (1) ja käytetävyyden kannalta neutraali (0). Lisäksi adjektiivit luokiteltiin eri teemoihin, jolloin voimme arvioida minkä tyyppisiä tunteita sivu on aiheuttanut kyselyyn vastanneille.
 
 Lisäksi pyysimme osallistujia halutessaan kertomaan omin sanoin nähdystä sivusta. Tätä aineistoa käytimme tukemaan kahdesta mittauksesta tehtyjä päätelmiä.
 
 ## Tulokset
+
+Kyselyyn osallistujamäärä jäi harmillisen pieneksi, *N*\=14. Osallistujajoukko oli rajattu vai Jyväskylä ylipiston kognitiotieteen opiskelijoihin, kurssin osallistujiin sekä yhdistyksen hallituksen jäseniin.
 
 ### PVU
 
@@ -86,9 +88,15 @@ Huonojen sisäisten reliabiliteettien takia mittaus vaikutti epäonnistuneen, mi
 
 ### Adjektiivit
 
-![](/uploads/sensuroitu-adje.png){: width="1170" height="692"}
+Adjektiivien osalta sivut jakautuivat selvästi. Tutkituja sivuja kuvailtiin selvästi erillaisin adjektiivein, mikä näkyy selvästi luokiteltujen adjektiivien frekvensseissä.
 
-&nbsp;
+![](/uploads/käyttäjäkokemuksen-ja-käytettävyyden-mukaan-lajiteltujen-adjektiivien-frekvenssien-suhteet-tutkituilla-sivuilla.png){: width="1136" height="704"}
+
+Ilman sivujen näyttämistä on vaikea kuvailla, miten tutkimut sivut eroavat toisistaan. Siten on myös vaikea yrittää kertoa, mitä saaduista tuloksista voi päätellä. Yritän kuitenkin vähän avata tuloksia lyhyesti.
+
+Jäsenedut -sivu (1) ja Etusivu (2) olivat selvästi viimeistellymmät ja valmiimman näköiset kuin Kannatusjäsenet -sivu (3) ja Yhteystiedot -sivu (4). Lisäksi sivuilla 1 ja 2 oli "tunnelmaa" nostattavia kuvia, sivun 1 tapauksessa yksi kuva sivun oikeassa sarakkeessa ja sivulla 2 kaksi sivun yläosassa headerin alapuolella. Avointen vastausten perusteella vastaajat vaikuttivat pitäneen jäsenedut -sivun kuvan luomasta tunnelmasta. Kuvassa kuvan ottaja pitää kahvikuppia kameran edessä kädellään taustalla ihmisten keskustellessa kahvin äärellä. Kuva vaikutti siis sopineen sivulle hyvin. Etusivulla kuvat olivat eri kokoiset toisen kuvan ollassa toista puolet suurempi leveyssuunnassa. Kannatusjäsenet -sivulla oli kuvana vain kannatusjäsenten logoja, Yhteystiedot -sivulla ei ollut mitään kuvia. Kuvat todennäköisesti siis selittivät osittain eroja käyttäjäkokemuksessa.
+
+Käyttävyyteen liittyvien adjektiivien osalta sivut olivat lähempänä toisiaan. Sivut olivat etusivua lukuunottamatta hyvin karuja, mutta sisällöltään tiiviitä, mikä voi osittain selittää neutraalien adjektiivien suurta osuutta. Sivujen käytettävyyden voisi tulkita olevan ei erityisen huono tai hyvä.
 
 &nbsp;
 
