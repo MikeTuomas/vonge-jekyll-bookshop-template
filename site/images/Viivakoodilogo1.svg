@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.774357mm"
+   height="5.1533694mm"
+   viewBox="0 0 23.774357 5.1533696"
+   version="1.1"
+   id="svg35807"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Viivakoodilogo1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35809"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4805976"
+     inkscape:cx="115.49391"
+     inkscape:cy="40.524178"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs35804">
+    <rect
+       x="114.8185"
+       y="187.76202"
+       width="371.47162"
+       height="104.01205"
+       id="rect42001" />
+    <rect
+       x="70.241905"
+       y="218.83055"
+       width="125.62495"
+       height="81.048355"
+       id="rect37155" />
+  </defs>
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.379024,-62.717286)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text37153"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37155);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="70.242188"
+         y="336.37212"
+         id="tspan9554"><tspan
+           dx="0 33.710938 16.835938 27.714844 27.34375 25.292969 22.265625 14.0625 31.484375 26.171875 27.148438 27.34375 27.714844"
+           id="tspan9552">MIKAEL OVASKA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text41999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:'Libre Barcode 128 Text';-inkscape-font-specification:'Libre Barcode 128 Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect42001);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="114.81836"
+         y="249.62836"
+         id="tspan9558"><tspan
+           style="font-size:21.3333px"
+           id="tspan9556">MIKAEL OVASKA</tspan></tspan></text>
+  </g>
+</svg>
