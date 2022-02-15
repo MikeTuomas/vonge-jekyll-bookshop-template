@@ -29,7 +29,11 @@ Minun osuuteni tutkimuksessa:
 
 ## Huomio
 
-Tutkimusta tehdessä toimeksiantaja ei halunnut levittää nettisivuja julkisesti, joten en nytkään jaa tutkittavia sivuja tällä sivulla. Tämä vaikeuttaa sivun seuraamista, enkä sen takia pureudu juurikaan yksityiskohtiin.
+Tutkimusta tehdessä toimeksiantaja ei halunnut levittää nettisivuja julkisesti, joten en nytkään jaa tutkittavia sivuja tällä sivulla. Tämä vaikeuttaa tutkimuksen seuraamista, enkä sen takia pureudu juurikaan yksityiskohtiin.
+
+Vaikka tutkimusta onkin vaikea seurata näkemättä itse tutkimuksen kohdetta, haluan tämän tutkimuksen jakaa, koska tässä tutkimuksessa sovelsimme ja yhdistelimme monia tutkimusmenetelmiä ja saimme tuotettua kehitysehdotuksia.
+
+Tutkimus kesti kokonaisuudessaa 9 viikkoa suunnittelusta viimeistellyn raportin palauttamiseen. Ennen raportin palauttamista esittelimme tutkimuksen kurssin loppuseminaarissa. Arvosanaksi työstä saimme parhaan arvosanan **5**.
 
 # Tutkimus
 
@@ -74,7 +78,7 @@ Kerättyt adjektiivit luokittelimme kirjallisuuden pohjaten negatiivisesti, neut
 
 Lisäksi pyysimme osallistujia halutessaan kertomaan omin sanoin nähdystä sivusta. Tätä aineistoa käytimme tukemaan kahdesta mittauksesta tehtyjä päätelmiä.
 
-## Tulokset
+## Tulosten analyysi
 
 Kyselyyn osallistujamäärä jäi harmillisen pieneksi, *N*\=14. Osallistujajoukko oli rajattu vai Jyväskylä ylipiston kognitiotieteen opiskelijoihin, kurssin osallistujiin sekä yhdistyksen hallituksen jäseniin.
 
@@ -92,11 +96,13 @@ Adjektiivien osalta sivut jakautuivat selvästi. Tutkituja sivuja kuvailtiin sel
 
 ![](/uploads/käyttäjäkokemuksen-ja-käytettävyyden-mukaan-lajiteltujen-adjektiivien-frekvenssien-suhteet-tutkituilla-sivuilla.png){: width="1136" height="704"}
 
-Ilman sivujen näyttämistä on vaikea kuvailla, miten tutkimut sivut eroavat toisistaan. Siten on myös vaikea yrittää kertoa, mitä saaduista tuloksista voi päätellä. Yritän kuitenkin vähän avata tuloksia lyhyesti.
+Ilman sivujen näyttämistä on vaikea kuvailla, miten tutkitut sivut eroavat toisistaan. Siten on myös vaikea yrittää kertoa, mitä saaduista tuloksista voi päätellä. Yritän kuitenkin avata tuloksia lyhyesti.
 
 Jäsenedut -sivu (1) ja Etusivu (2) olivat selvästi viimeistellymmät ja valmiimman näköiset kuin Kannatusjäsenet -sivu (3) ja Yhteystiedot -sivu (4). Lisäksi sivuilla 1 ja 2 oli "tunnelmaa" nostattavia kuvia, sivun 1 tapauksessa yksi kuva sivun oikeassa sarakkeessa ja sivulla 2 kaksi sivun yläosassa headerin alapuolella. Avointen vastausten perusteella vastaajat vaikuttivat pitäneen jäsenedut -sivun kuvan luomasta tunnelmasta. Kuvassa kuvan ottaja pitää kahvikuppia kameran edessä kädellään taustalla ihmisten keskustellessa kahvin äärellä. Kuva vaikutti siis sopineen sivulle hyvin. Etusivulla kuvat olivat eri kokoiset toisen kuvan ollassa toista puolet suurempi leveyssuunnassa. Kannatusjäsenet -sivulla oli kuvana vain kannatusjäsenten logoja, Yhteystiedot -sivulla ei ollut mitään kuvia. Kuvat todennäköisesti siis selittivät osittain eroja käyttäjäkokemuksessa.
 
 Käyttävyyteen liittyvien adjektiivien osalta sivut olivat lähempänä toisiaan. Sivut olivat etusivua lukuunottamatta hyvin karuja, mutta sisällöltään tiiviitä, mikä voi osittain selittää neutraalien adjektiivien suurta osuutta. Sivujen käytettävyyden voisi tulkita olevan ei erityisen huono tai hyvä.
+
+## Kehitysehdotukset
 
 &nbsp;
 
