@@ -35,7 +35,17 @@ Sivustolla täytyy tietysti olla rakenne elikkä sivusto-kartta. Perus portfolio
 
 Itsestään selvät alkuun. Muutin kaikki tekstit suomeksi formeissa, navissa ja niin edespäin. Sitten haastavampi osuus oli keksiä tekstit nappeihin, etusivun "hero" osioon ja yhteydenotto lomakkeeseen.
 
-&nbsp;
+### Blogikortista tekstin kirjottajan nimi pois
+
+![](/uploads/yhdistetty-author.png){: width="880" height="597"}
+
+On hyvin selvää kuka tekstit on kirjoittanut minun portfoliosivustolla. Muutos onnistui poistamalla koodia bookshop komponentista.
+
+### "View all" nappula pois
+
+![](/uploads/view-all.PNG){: width="768" height="175"}
+
+Minun mielestä portfoliossa ei pitäisi olla niin paljon projekteja, että niille tulisi luoda erillinen sivu, joten "view all" nappula on turha. Muutos onnisuti poistamalla koodia bookshop komponentista.
 
 &nbsp;
 
