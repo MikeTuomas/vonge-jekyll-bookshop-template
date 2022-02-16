@@ -2,7 +2,7 @@ footer_menu__settings:
   menu__items:
     - title: Projektit
       url: /
-    - title: About
+    - title: Minusta
       url: /about/
 copyright_text_html: >-
   <p>2022 &copy;Mikael Ovaska. Template by <a
