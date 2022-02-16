@@ -3,5 +3,5 @@ menu__settings:
   menu__items:
     - title: Projektit
       url: /
-    - title: About
+    - title: Minusta
       url: /about/
